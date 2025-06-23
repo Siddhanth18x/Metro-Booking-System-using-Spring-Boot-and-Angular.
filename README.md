@@ -1,7 +1,41 @@
 # MetroFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
+Description:
 
+The Metro Booking System is a full-stack web application designed to streamline metro travel reservations. Built using Spring Boot (Java) on the backend and Angular on the frontend, the application supports a smooth and secure user experience with features such as JWT authentication, integrated API testing via Postman, and comprehensive logging mechanisms.
+
+Key Features:
+
+🔐 JWT Authentication: Implements secure login and role-based access control (e.g., admin, user) using JSON Web Tokens.
+
+📬 Postman-Ready RESTful APIs: All backend endpoints are well-structured and documented for testing with Postman, covering booking, schedules, user management, and more.
+
+🌐 Angular Frontend: A dynamic and responsive user interface allowing users to search routes, book tickets, and manage bookings.
+
+📄 Logging and Monitoring: Backend logs are managed using SLF4J/Logback for tracking application behavior and debugging purposes.
+
+🗂️ Modular Design: Clean separation of concerns across backend layers (Controller, Service, Repository) and Angular modules.
+
+📦 Spring Boot Backend: Handles business logic, database operations (likely via Spring Data JPA), and exposes secure REST APIs.
+
+Tech Stack:
+
+Backend: Spring Boot, Spring Security, Spring Data JPA, JWT, Maven
+
+Frontend: Angular, TypeScript, Bootstrap/Material UI
+
+Database: MySQL
+
+Tools: Postman.
+
+Use Cases:
+
+User registration and login
+
+Viewing available metro routes and timings
+
+Booking and managing tickets
 ## Development server
 
 To start a local development server, run:
