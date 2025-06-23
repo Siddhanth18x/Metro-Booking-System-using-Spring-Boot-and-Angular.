@@ -4,6 +4,12 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 Description:
 
 The Metro Booking System is a full-stack web application designed to streamline metro travel reservations. Built using Spring Boot (Java) on the backend and Angular on the frontend, the application supports a smooth and secure user experience with features such as JWT authentication, integrated API testing via Postman, and comprehensive logging mechanisms.
+![image](https://github.com/user-attachments/assets/234447f3-50ba-43f5-a064-47838fb42c27)
+![image](https://github.com/user-attachments/assets/e0d47307-46f7-4ea9-ba34-0294e30636f3)
+![image](https://github.com/user-attachments/assets/489dfda8-3b28-42de-a425-94f9a42c3858)
+![image](https://github.com/user-attachments/assets/482854d4-4f5f-4393-952c-b2c27eda9d3e)
+![image](https://github.com/user-attachments/assets/4f16b49b-a119-4097-a6c6-b265698609bc)
+![image](https://github.com/user-attachments/assets/1f685c53-41d0-4928-b156-c34ea3e4d156)
 
 Key Features:
 
